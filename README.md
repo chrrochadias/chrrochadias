@@ -57,4 +57,4 @@ Analysis of rental data (Airbnb Paris/Lyon) with MongoDB: ReplicaSet, sharding, 
 ## 📫 Get in touch
 
 Open to Data Engineering opportunities.
-[your-email] · [LinkedIn](https://www.linkedin.com/in/christopher-rocha-dias/)
+[Mail](christopher.rochadias@gmail.com) · [LinkedIn](https://www.linkedin.com/in/christopher-rocha-dias/)
