@@ -49,7 +49,7 @@ Streaming proof of concept with PySpark Structured Streaming and Redpanda in a l
 ### 🔄 P8 — Modern cloud ELT pipeline
 End-to-end ELT pipeline: Airbyte (ingestion) + PostgreSQL + dbt Core (transformation), deployed on AWS (RDS, ECR, ECS Fargate, EventBridge). Modern Extract-Load-Transform approach with dbt tests and documentation.
 `ELT` · `dbt` · `Airbyte` · `AWS` · `PostgreSQL`
-🔗 [P8 repo link]
+🔗 [[P8 repo link](https://github.com/chrrochadias/Projet8_Christopher_Rocha_Dias)]
 
 ### 🍃 P7 — NoSQL modeling and querying with MongoDB
 Analysis of rental data (Airbnb Paris/Lyon) with MongoDB: ReplicaSet, sharding, aggregation pipelines, Python integration via PyMongo and Polars.
