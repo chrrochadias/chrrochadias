@@ -4,7 +4,7 @@
 
 Currently completing a Data Engineering master's program at OpenClassrooms, I'm building end-to-end experience across the full data lifecycle: NoSQL modeling, ELT pipelines, real-time processing, workflow orchestration, and RAG/NLP systems deployed on the cloud. Each project below stems from a concrete professional brief and demonstrates a complete, hands-on technical skill set.
 
-📍 [Stockholm] · 📫 [Mail](mailto:christopher.rochadias@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/christopher-rocha-dias/)
+📫 [Mail](mailto:christopher.rochadias@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/christopher-rocha-dias/)
 
 ---
 
