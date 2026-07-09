@@ -26,7 +26,7 @@ Currently completing a Data Engineering master's program at OpenClassrooms, I'm 
 Design study to industrialize a RAG chatbot (Puls-Events): scalable cloud architecture, prioritized macro backlog, build/OPEX cost modeling. Stateless architecture on AWS — all state held in managed services (RDS + pgvector, ElastiCache, Bedrock, ECS Fargate), with agentic web search via smolagents.
 `Architecture` · `AWS` · `Project management` · `Cost modeling`
 
-🏃 P12 — End-to-end sports data pipeline (POC)
+### 🏃 P12 — End-to-end sports data pipeline (POC)
 Proof of concept for a sports-activity rewards system at Sport Data Solution (fitness analytics start-up): a full pipeline covering extraction, transformation, loading, data-quality testing, and continuous monitoring. Computes the financial impact of employee sports incentives, with Slack notifications and a Power BI report featuring replayable historical indicators.
 ELT · Data quality · Monitoring · Power BI · Slack
 🔗 [[P12 repo link](https://github.com/chrrochadias/Projet12_Christopher_Rocha_Dias_Sport-Data)]
