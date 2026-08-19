@@ -1,8 +1,18 @@
-# Hi, I'm Christopher Rocha Dias 👋
+# Christopher Rocha Dias
 
-**Data Engineer** — I design and deploy data pipelines and AI systems, from proof of concept to production.
+**Ten years building production systems — now working in data engineering.**
 
-Currently completing a Data Engineering master's program at OpenClassrooms, I'm building end-to-end experience across the full data lifecycle: NoSQL modeling, ELT pipelines, real-time processing, workflow orchestration, and RAG/NLP systems deployed on the cloud. Each project below stems from a concrete professional brief and demonstrates a complete, hands-on technical skill set.
+I spent a decade as a backend engineer on systems where being wrong was expensive:
+payment integrations, a live data-model migration across ~30 tables with zero downtime,
+and a public platform serving 100k+ users.
+
+More recently I've specialised into data engineering — a master's in Data Engineering
+& Data Science, a Databricks Data Engineer Associate certification, and the projects
+pinned below.
+
+What I bring to data work is the part that's usually missing: production instinct.
+Models that survive real volume, pipelines that fail loudly rather than silently,
+and migrations that don't take the platform down.
 
 📫 [Mail](mailto:christopher.rochadias@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/christopher-rocha-dias/)
 
@@ -18,7 +28,7 @@ Currently completing a Data Engineering master's program at OpenClassrooms, I'm 
 
 ---
 
-## 📂 Projects
+## 📂 Data Projects
 
 > Each project addresses a realistic professional brief and is documented with a detailed README (context, architecture, stack, key takeaways).
 
