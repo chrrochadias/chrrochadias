@@ -1,4 +1,4 @@
-# Christopher Rocha Dias
+# Hi, I'm Christopher Rocha Dias 👋
 
 **Ten years building production systems — now working in data engineering.**
 
@@ -14,13 +14,13 @@ What I bring to data work is the part that's usually missing: production instinc
 Models that survive real volume, pipelines that fail loudly rather than silently,
 and migrations that don't take the platform down.
 
-📫 [Mail](mailto:christopher.rochadias@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/christopher-rocha-dias/)
+📫 [Mail](mailto:christopher.rochadias@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/christopher-rocha-dias/) 🔗 [Website](https://christopher-rochadias.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & processing** · Python · PySpark · SQL · Polars
+**Languages & processing** · Python · PySpark · SQL · Polars · PHP / Symfony, RabbitMQ
 **Databases** · PostgreSQL · MongoDB · pgvector · Redis · FAISS
 **Pipelines & orchestration** · dbt · Airbyte · Kestra · Redpanda (Kafka)
 **Cloud & deployment** · AWS (RDS, ECS Fargate, ECR, S3, EventBridge, Bedrock, ElastiCache, CloudWatch) · Docker · GitHub Actions
